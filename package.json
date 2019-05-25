@@ -1,0 +1,14 @@
+{
+  "name": "nasa-apod-node",
+  "version": "1.0.0",
+  "description": "Fast and easy to use API for fetching data from NASA's APOD website",
+  "main": "src/index.js",
+  "author": "Pawel Pleskaczynski",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-advanced-selectors": "^2.0.1",
+    "iconv-lite": "^0.4.24",
+    "request": "^2.88.0"
+  }
+}
